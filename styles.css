@@ -1,0 +1,19 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.card {
+    border-radius: 10px;
+    border: none;
+    margin-bottom: 20px;
+}
+
+.btn {
+    border-radius: 5px;
+}
+
+@media (max-width: 768px) {
+    .card {
+        padding: 15px;
+    }
+}
